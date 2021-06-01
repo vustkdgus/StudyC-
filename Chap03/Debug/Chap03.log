@@ -1,0 +1,7 @@
+﻿Convertint.obj : error LNK2005: _main이(가) ConvertClass.obj에 이미 정의되어 있습니다.
+double2Time.obj : error LNK2005: _main이(가) ConvertClass.obj에 이미 정의되어 있습니다.
+InitConstMember.obj : error LNK2005: _main이(가) ConvertClass.obj에 이미 정의되어 있습니다.
+InitRefMember.obj : error LNK2005: _main이(가) ConvertClass.obj에 이미 정의되어 있습니다.
+int2Time.obj : error LNK2005: _main이(가) ConvertClass.obj에 이미 정의되어 있습니다.
+생성자.obj : error LNK2005: _main이(가) ConvertClass.obj에 이미 정의되어 있습니다.
+D:\GitRepository\StudyC-\Chap03\Debug\Chap03.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
