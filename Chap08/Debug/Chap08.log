@@ -1,0 +1,7 @@
+﻿  Specialization2.cpp
+D:\GitRepository\StudyC-\Chap08\Specialization2.cpp(27,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap08\Specialization2.cpp(14,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap08\Specialization2.cpp(13): message : 클래스 템플릿 멤버 함수 'void PosValue<char>::outvalue(void)'을(를) 컴파일하는 중입니다.
+D:\GitRepository\StudyC-\Chap08\Specialization2.cpp(38): message : 컴파일되는 함수 템플릿 인스턴스화 'void PosValue<char>::outvalue(void)'에 대한 참조를 확인하세요.
+D:\GitRepository\StudyC-\Chap08\Specialization2.cpp(35): message : 컴파일되는 클래스 템플릿 인스턴스화 'PosValue<char>'에 대한 참조를 확인하세요.
+  Chap08.vcxproj -> D:\GitRepository\StudyC-\Chap03\Debug\Chap08.exe
