@@ -1,0 +1,13 @@
+﻿  고스톱.cpp
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(146,3): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(160,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(160,4): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(163,5): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(182,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(187,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(216,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(220,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(229,2): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(229,2): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-\Chap12\고스톱.cpp(325,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Chap12.vcxproj -> D:\GitRepository\StudyC-\Chap03\Debug\Chap12.exe
